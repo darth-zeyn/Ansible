@@ -1,5 +1,5 @@
 --- 
-- name: all 
+- hosts: all 
   become: yes 
   user: ansible 
   gather_facts: no 
